@@ -70,4 +70,5 @@ const years = days/daysInYears;
 const months= days/daysInMonths;
 //OUTPUT 
 console.log(years)
-console.log(months)
+console.log(months);
+
